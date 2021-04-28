@@ -1,0 +1,13 @@
+Type: Compendium
+Package: stylo course
+Title: stylo scripts
+Version: 0.0.1
+Authors@R: https://github.com/editio
+Description: stylo scripts
+License: mit
+Depends: 
+    igraph,
+    stylo,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
